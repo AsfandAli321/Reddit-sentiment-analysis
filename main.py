@@ -10,7 +10,7 @@ from sentiment import SentimentAnalyzer
 def main():
     initialize_database()
     #enable after incoperating streamlit dashboard
-    posts = fetch_posts()
+    # posts = fetch_posts()
 
     # Load posts already collected and saved in SQLite.
     subreddits = ['r/cscareerquestions', 'r/developersPak/']
@@ -35,7 +35,7 @@ def main():
     #         )
 
     # 3. Save the collected posts to SQLite.
-    # save_posts(posts)
+    save_posts(posts)
 
     # print("Posts saved to the database.")
 
