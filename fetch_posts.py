@@ -6,20 +6,29 @@ import datetime
 from database import *
 
 def main():
-    query_list = ['Job', 'AI', 'layoff', 'claude']
+    query_list = ['Job', 'AI', 'layoffs', 'claude', 'salary', 'hiring']
     print("Select a keyword for the reddit search:")
-    for keyword,i in zip( query_list, range(0,len(query_list)) ):
+    for keyword,i in enumerate(query_list):
         print (i,keyword)
-    user_query_choice = int( input() )
-    user_query_choice = query_list[user_query_choice]
+    while True:
+        user_query_choice = input('>')
+        if user_query_choice.isdigit() and int(user_query_choice) < len(query_list):
+            user_query_choice = query_list[int(user_query_choice)]
+            print("keyword selected")
+            break
+        print('enter a valid num.')
 
-    subreddit_list = ['r/developersPak', 'r/csCareerQuestions']
+    subreddit_list = ['r/developersPak', 'r/PakistaniDevs/', 'r/csCareerQuestions']
     print("Select a subbredit:")
-    for subreddit,i in zip( subreddit_list, range(0,len(subreddit_list)) ):
+    for subreddit,i in enumerate(subreddit_list):
         print (i,subreddit)
-    user_subreddit_choice = int(input())
-    user_subreddit_choice = subreddit_list[user_subreddit_choice]
-    
+    while True:
+        user_subreddit_choice = input('>')
+        if user_subreddit_choice.isdigit() and int(user_subreddit_choice) < len(subreddit_list):
+            user_subreddit_choice = subreddit_list[int(user_subreddit_choice)]
+            print("subreddit selected")
+            break
+        print("enter a valid num")
     print(f'searching for {user_query_choice} in {user_subreddit_choice}')
     # posts = fetch_posts()
     # print(posts[0])
