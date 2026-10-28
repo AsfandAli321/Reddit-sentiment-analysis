@@ -27,16 +27,16 @@ def initialize_database():
             )
         """)
 
-        # conn.execute("""
-        #     CREATE TABLE IF NOT EXISTS sentiment_results (
-        #         post_id TEXT PRIMARY KEY,
-        #         keyword TEXT NOT NULL,
-        #         sentiment_label TEXT NOT NULL,
-        #         confidence REAL NOT NULL,
-        #         model_name TEXT NOT NULL,
-        #         analyzed_at TEXT NOT NULL
-        #     )
-        # """)
+        conn.execute("""
+            CREATE TABLE IF NOT EXISTS sentiment_results (
+                post_id TEXT PRIMARY KEY,
+                keyword TEXT NOT NULL,
+                sentiment_label TEXT NOT NULL,
+                confidence REAL NOT NULL,
+                model_name TEXT NOT NULL,
+                analyzed_at TEXT NOT NULL
+            )
+        """)
 
 
 def save_posts(posts):

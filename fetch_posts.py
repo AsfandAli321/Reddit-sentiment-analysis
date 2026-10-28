@@ -8,7 +8,7 @@ from database import *
 def main():
     query_list = ['Job', 'AI', 'layoffs', 'claude', 'salary', 'hiring']
     print("Select a keyword for the reddit search:")
-    for keyword,i in enumerate(query_list):
+    for i,keyword in enumerate(query_list):
         print (i,keyword)
     while True:
         user_query_choice = input('>')
@@ -20,7 +20,7 @@ def main():
 
     subreddit_list = ['r/developersPak', 'r/PakistaniDevs/', 'r/csCareerQuestions']
     print("Select a subbredit:")
-    for subreddit,i in enumerate(subreddit_list):
+    for i,subreddit in enumerate(subreddit_list):
         print (i,subreddit)
     while True:
         user_subreddit_choice = input('>')
@@ -29,16 +29,16 @@ def main():
             print("subreddit selected")
             break
         print("enter a valid num")
-    print(f'searching for {user_query_choice} in {user_subreddit_choice}')
-    # posts = fetch_posts()
+    print(f'search set for {user_query_choice} in {user_subreddit_choice}')
+    posts = fetch_posts(user_query_choice, user_subreddit_choice)
     # print(posts[0])
-    # save_posts(posts)
+    save_posts(posts)
 
-def fetch_posts():
+def fetch_posts(query, subreddit):
     posts = []
 
-    query = "job"
-    subreddit = "r/developersPak"
+    # query = "job"
+    # subreddit = "r/developersPak"
 
     headers = {
         'User-Agent': 'python:jobmarketanalyzer:v1.0 (by /u/Extra_solar)'
@@ -50,7 +50,6 @@ def fetch_posts():
 
     if response.status_code == 200:
         feed = feedparser.parse(response.content)
-        print(f" fetched {len(feed.entries)} posts live")
         for post in feed.entries:
             # 1. Pass the messy HTML summary to BeautifulSoup
             soup = BeautifulSoup(post.summary, "html.parser")
@@ -74,6 +73,7 @@ def fetch_posts():
             print("body:", clean_text)
             print("-" * 50)
             posts.append(post_db)
+        print(f" fetched {len(feed.entries)} posts live")
         return posts
 
     else:

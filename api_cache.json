@@ -1,0 +1,419 @@
+{
+    "bozo": false,
+    "entries": [
+        {
+            "authors": [
+                {
+                    "name": "/u/forevergeeks",
+                    "href": "https://www.reddit.com/user/forevergeeks"
+                }
+            ],
+            "author_detail": {
+                "name": "/u/forevergeeks",
+                "href": "https://www.reddit.com/user/forevergeeks"
+            },
+            "href": "https://www.reddit.com/user/forevergeeks",
+            "author": "/u/forevergeeks",
+            "tags": [
+                {
+                    "term": "cscareerquestions",
+                    "scheme": null,
+                    "label": "r/cscareerquestions"
+                }
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "",
+                    "value": "<!-- SC_OFF --><div class=\"md\"><p>I remember in the early 2000s reading a book called &quot;My Job Went to India and All I Got Was This Lousy Book.&quot;</p> <p>On the cover, the author, Chad Fowler, had an Indian guy holding a sign that read, &quot;Will code for food.&quot;</p> <p>Fowler described how software development jobs were moving to India at the time, and the challenges people in the US were facing with that transition: time zones, language barriers, cultural differences, and communication bottlenecks.</p> <p>We are in the exact same situation today with AI.</p> <p>If there is one thing AI is very good at, it is writing code. It can generate thousands of lines of syntax in seconds. Generating code has never been easier.</p> <p>But one of Fowler's core arguments, in a book that is now almost 20 years old, was that outsourcing syntax writing to entities who do not understand the architecture, the design, and the culture of the organization creates a set of secondary challenges.</p> <p>Writing software is not just churning out syntax. It requires a mental model and a deep understanding of what you are actually building.</p> <p>The exact same rule applies to AI agents.</p> <p>If you simply prompt an AI agent to build something without giving it a clear architecture, specific requirements, and deterministic guardrails, the agent will probably produce something. But who knows what you have actually built?</p> <p>It is not surprising that people who &quot;vibe code&quot; entire projects often either fail to finish them or abandon them completely because the codebase becomes impossible to maintain. That is the ultimate trap of vibe coding: maintainability.</p> <p>So yes, AI will write more and more of the code from now on. That code will become cheaper and cheaper to produce.</p> <p>But what will not go away, and what will actually become significantly more valuable, is the person who knows how to build systems structurally. The person who understands the architecture. The person who can see the entire system in their head before asking the AI to build it.</p> <p>AI is replacing the person writing the syntax. I am not convinced it will ever replace the person who knows what should be built in the first place.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/forevergeeks\"> /u/forevergeeks </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wkkiue/after_22_years_in_it_i_can_tell_you_ai_is_not/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wkkiue/after_22_years_in_it_i_can_tell_you_ai_is_not/\">[comments]</a></span>"
+                }
+            ],
+            "summary": "<!-- SC_OFF --><div class=\"md\"><p>I remember in the early 2000s reading a book called &quot;My Job Went to India and All I Got Was This Lousy Book.&quot;</p> <p>On the cover, the author, Chad Fowler, had an Indian guy holding a sign that read, &quot;Will code for food.&quot;</p> <p>Fowler described how software development jobs were moving to India at the time, and the challenges people in the US were facing with that transition: time zones, language barriers, cultural differences, and communication bottlenecks.</p> <p>We are in the exact same situation today with AI.</p> <p>If there is one thing AI is very good at, it is writing code. It can generate thousands of lines of syntax in seconds. Generating code has never been easier.</p> <p>But one of Fowler's core arguments, in a book that is now almost 20 years old, was that outsourcing syntax writing to entities who do not understand the architecture, the design, and the culture of the organization creates a set of secondary challenges.</p> <p>Writing software is not just churning out syntax. It requires a mental model and a deep understanding of what you are actually building.</p> <p>The exact same rule applies to AI agents.</p> <p>If you simply prompt an AI agent to build something without giving it a clear architecture, specific requirements, and deterministic guardrails, the agent will probably produce something. But who knows what you have actually built?</p> <p>It is not surprising that people who &quot;vibe code&quot; entire projects often either fail to finish them or abandon them completely because the codebase becomes impossible to maintain. That is the ultimate trap of vibe coding: maintainability.</p> <p>So yes, AI will write more and more of the code from now on. That code will become cheaper and cheaper to produce.</p> <p>But what will not go away, and what will actually become significantly more valuable, is the person who knows how to build systems structurally. The person who understands the architecture. The person who can see the entire system in their head before asking the AI to build it.</p> <p>AI is replacing the person writing the syntax. I am not convinced it will ever replace the person who knows what should be built in the first place.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/forevergeeks\"> /u/forevergeeks </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wkkiue/after_22_years_in_it_i_can_tell_you_ai_is_not/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wkkiue/after_22_years_in_it_i_can_tell_you_ai_is_not/\">[comments]</a></span>",
+            "id": "t3_1wkkiue",
+            "guidislink": true,
+            "link": "https://www.reddit.com/r/cscareerquestions/comments/1wkkiue/after_22_years_in_it_i_can_tell_you_ai_is_not/",
+            "links": [
+                {
+                    "href": "https://www.reddit.com/r/cscareerquestions/comments/1wkkiue/after_22_years_in_it_i_can_tell_you_ai_is_not/",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "updated": "2026-09-19T12:07:39+00:00",
+            "updated_parsed": [
+                2026,
+                9,
+                19,
+                12,
+                7,
+                39,
+                5,
+                262,
+                0
+            ],
+            "published": "2026-09-19T12:07:39+00:00",
+            "published_parsed": [
+                2026,
+                9,
+                19,
+                12,
+                7,
+                39,
+                5,
+                262,
+                0
+            ],
+            "title": "After 22 years in IT, I can tell you AI is not replacing developers. It's replacing syntax coding",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "After 22 years in IT, I can tell you AI is not replacing developers. It's replacing syntax coding"
+            }
+        },
+        {
+            "authors": [
+                {
+                    "name": "/u/Single_Estimate_3190",
+                    "href": "https://www.reddit.com/user/Single_Estimate_3190"
+                }
+            ],
+            "author_detail": {
+                "name": "/u/Single_Estimate_3190",
+                "href": "https://www.reddit.com/user/Single_Estimate_3190"
+            },
+            "href": "https://www.reddit.com/user/Single_Estimate_3190",
+            "author": "/u/Single_Estimate_3190",
+            "tags": [
+                {
+                    "term": "cscareerquestions",
+                    "scheme": null,
+                    "label": "r/cscareerquestions"
+                }
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "",
+                    "value": "<!-- SC_OFF --><div class=\"md\"><p>I feel like tech jobs are one of the few fields that require such rigorous prep,you can't just do a walk in interview anymore where you go in with zero prep</p> <p>Maybe it\u2019s just my experience, but I feel like switching jobs in tech requires a level of prep that\u2019s unusually intense.</p> <p>You\u2019re expected to keep up with technical concepts, DSA/system design (nowadays irrespective of role), projects, resumes, behavioral interviews, and then actually perform under pressure during interviews.</p> <p>And even after getting the job, the learning doesn\u2019t really stop because the technology keeps changing.</p> <p>Compared with many other careers, sometimes it feels too much.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Single_Estimate_3190\"> /u/Single_Estimate_3190 </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wik3la/i_believe_tech_jobs_are_the_only_sector_which/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wik3la/i_believe_tech_jobs_are_the_only_sector_which/\">[comments]</a></span>"
+                }
+            ],
+            "summary": "<!-- SC_OFF --><div class=\"md\"><p>I feel like tech jobs are one of the few fields that require such rigorous prep,you can't just do a walk in interview anymore where you go in with zero prep</p> <p>Maybe it\u2019s just my experience, but I feel like switching jobs in tech requires a level of prep that\u2019s unusually intense.</p> <p>You\u2019re expected to keep up with technical concepts, DSA/system design (nowadays irrespective of role), projects, resumes, behavioral interviews, and then actually perform under pressure during interviews.</p> <p>And even after getting the job, the learning doesn\u2019t really stop because the technology keeps changing.</p> <p>Compared with many other careers, sometimes it feels too much.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Single_Estimate_3190\"> /u/Single_Estimate_3190 </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wik3la/i_believe_tech_jobs_are_the_only_sector_which/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wik3la/i_believe_tech_jobs_are_the_only_sector_which/\">[comments]</a></span>",
+            "id": "t3_1wik3la",
+            "guidislink": true,
+            "link": "https://www.reddit.com/r/cscareerquestions/comments/1wik3la/i_believe_tech_jobs_are_the_only_sector_which/",
+            "links": [
+                {
+                    "href": "https://www.reddit.com/r/cscareerquestions/comments/1wik3la/i_believe_tech_jobs_are_the_only_sector_which/",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "updated": "2026-09-17T04:40:18+00:00",
+            "updated_parsed": [
+                2026,
+                9,
+                17,
+                4,
+                40,
+                18,
+                3,
+                260,
+                0
+            ],
+            "published": "2026-09-17T04:40:18+00:00",
+            "published_parsed": [
+                2026,
+                9,
+                17,
+                4,
+                40,
+                18,
+                3,
+                260,
+                0
+            ],
+            "title": "I believe tech jobs are the only sector which requires rigorous prep",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "I believe tech jobs are the only sector which requires rigorous prep"
+            }
+        },
+        {
+            "authors": [
+                {
+                    "name": "/u/Bulbasaur2015",
+                    "href": "https://www.reddit.com/user/Bulbasaur2015"
+                }
+            ],
+            "author_detail": {
+                "name": "/u/Bulbasaur2015",
+                "href": "https://www.reddit.com/user/Bulbasaur2015"
+            },
+            "href": "https://www.reddit.com/user/Bulbasaur2015",
+            "author": "/u/Bulbasaur2015",
+            "tags": [
+                {
+                    "term": "cscareerquestions",
+                    "scheme": null,
+                    "label": "r/cscareerquestions"
+                }
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "",
+                    "value": "<!-- SC_OFF --><div class=\"md\"><p>*yesteryear in title</p> <p>all programmers had to do in the old days was talk in the interview to get a job</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bulbasaur2015\"> /u/Bulbasaur2015 </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wtv23s/hot_take_if_the_great_computer_scientists_of_the/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wtv23s/hot_take_if_the_great_computer_scientists_of_the/\">[comments]</a></span>"
+                }
+            ],
+            "summary": "<!-- SC_OFF --><div class=\"md\"><p>*yesteryear in title</p> <p>all programmers had to do in the old days was talk in the interview to get a job</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bulbasaur2015\"> /u/Bulbasaur2015 </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wtv23s/hot_take_if_the_great_computer_scientists_of_the/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wtv23s/hot_take_if_the_great_computer_scientists_of_the/\">[comments]</a></span>",
+            "id": "t3_1wtv23s",
+            "guidislink": true,
+            "link": "https://www.reddit.com/r/cscareerquestions/comments/1wtv23s/hot_take_if_the_great_computer_scientists_of_the/",
+            "links": [
+                {
+                    "href": "https://www.reddit.com/r/cscareerquestions/comments/1wtv23s/hot_take_if_the_great_computer_scientists_of_the/",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "updated": "2026-09-30T03:58:35+00:00",
+            "updated_parsed": [
+                2026,
+                9,
+                30,
+                3,
+                58,
+                35,
+                2,
+                273,
+                0
+            ],
+            "published": "2026-09-30T03:58:35+00:00",
+            "published_parsed": [
+                2026,
+                9,
+                30,
+                3,
+                58,
+                35,
+                2,
+                273,
+                0
+            ],
+            "title": "hot take: if the great computer scientists of the past, of yesterday were applying today they would be mogged by the interv*ew processes",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "hot take: if the great computer scientists of the past, of yesterday were applying today they would be mogged by the interv*ew processes"
+            }
+        },
+        {
+            "authors": [
+                {
+                    "name": "/u/Calm_Clam_Bake",
+                    "href": "https://www.reddit.com/user/Calm_Clam_Bake"
+                }
+            ],
+            "author_detail": {
+                "name": "/u/Calm_Clam_Bake",
+                "href": "https://www.reddit.com/user/Calm_Clam_Bake"
+            },
+            "href": "https://www.reddit.com/user/Calm_Clam_Bake",
+            "author": "/u/Calm_Clam_Bake",
+            "tags": [
+                {
+                    "term": "cscareerquestions",
+                    "scheme": null,
+                    "label": "r/cscareerquestions"
+                }
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "",
+                    "value": "<!-- SC_OFF --><div class=\"md\"><p>Get this, there are jobs available outside FAANG. No really. I know, it blew me the fuck away as well. But apparently there are thousands and thousands of companies out there that, get this, have some kind of technology in house. And they need humans (for now) to run that technology. And they're not all located within a 30 mile radius of San Francisco. Some of them are even outside California. </p> <p>Look guys, I know I sound like a lunatic. And believe I had to ask myself the same question, am I having some kind of hallucination or mental breakdown or something? But no, it's real. These jobs exist. These cities outside of SF exist. There's this whole world out there. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Calm_Clam_Bake\"> /u/Calm_Clam_Bake </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wxhuy9/i_found_out_something_crazy_about_tech_jobs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wxhuy9/i_found_out_something_crazy_about_tech_jobs/\">[comments]</a></span>"
+                }
+            ],
+            "summary": "<!-- SC_OFF --><div class=\"md\"><p>Get this, there are jobs available outside FAANG. No really. I know, it blew me the fuck away as well. But apparently there are thousands and thousands of companies out there that, get this, have some kind of technology in house. And they need humans (for now) to run that technology. And they're not all located within a 30 mile radius of San Francisco. Some of them are even outside California. </p> <p>Look guys, I know I sound like a lunatic. And believe I had to ask myself the same question, am I having some kind of hallucination or mental breakdown or something? But no, it's real. These jobs exist. These cities outside of SF exist. There's this whole world out there. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Calm_Clam_Bake\"> /u/Calm_Clam_Bake </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wxhuy9/i_found_out_something_crazy_about_tech_jobs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1wxhuy9/i_found_out_something_crazy_about_tech_jobs/\">[comments]</a></span>",
+            "id": "t3_1wxhuy9",
+            "guidislink": true,
+            "link": "https://www.reddit.com/r/cscareerquestions/comments/1wxhuy9/i_found_out_something_crazy_about_tech_jobs/",
+            "links": [
+                {
+                    "href": "https://www.reddit.com/r/cscareerquestions/comments/1wxhuy9/i_found_out_something_crazy_about_tech_jobs/",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "updated": "2026-10-04T15:04:37+00:00",
+            "updated_parsed": [
+                2026,
+                10,
+                4,
+                15,
+                4,
+                37,
+                6,
+                277,
+                0
+            ],
+            "published": "2026-10-04T15:04:37+00:00",
+            "published_parsed": [
+                2026,
+                10,
+                4,
+                15,
+                4,
+                37,
+                6,
+                277,
+                0
+            ],
+            "title": "I found out something crazy about tech jobs",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "I found out something crazy about tech jobs"
+            }
+        },
+        {
+            "authors": [
+                {
+                    "name": "/u/UnbiasedContender",
+                    "href": "https://www.reddit.com/user/UnbiasedContender"
+                }
+            ],
+            "author_detail": {
+                "name": "/u/UnbiasedContender",
+                "href": "https://www.reddit.com/user/UnbiasedContender"
+            },
+            "href": "https://www.reddit.com/user/UnbiasedContender",
+            "author": "/u/UnbiasedContender",
+            "tags": [
+                {
+                    "term": "cscareerquestions",
+                    "scheme": null,
+                    "label": "r/cscareerquestions"
+                }
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "",
+                    "value": "<!-- SC_OFF --><div class=\"md\"><p>As many of you may already know, Team Blind is a anonymous platform for discussing topics with your co-workers. It's very popular with Tech industry employees.</p> <p>You have to verify your work email to get access to the company-only area on this website. Over the course of using this website for 10 years, I have never had to reverify my work email address once while at a company. Not once I have ever been asked to reverify even after 6+ years of continuous employment at one company.</p> <p>Yet, on 2 separate occasions where I have quit a job, Team Blind has popped up with an &quot;Automatic Email Re-verification&quot; on the same week I left that company. This is with me making no announcements on LinkedIn or on Team Blind itself.</p> <p>There is no way this is a coincidence. Team Blind actively works with various tech companies and they share data together. The only way Blind could have known I left is if my old company notified them. Team Blind have <a href=\"https://business.teamblind.com\">https://business.teamblind.com</a> which is something companies can pay for to get &quot;anonymised data&quot; about their employees on blind.</p> <p>The takeaway here is: it is not an anonymous platform and you should assume your activity and everything you discuss on there is shared with your employer.</p> <p>Maybe it was once a truly anonymous but it is now fully compromised as they try to monetise their platform.</p> <p>Somebody should create a truly anonymised clone of the website, and promote its usage. Because Team Blind isn't so blind anymore at your expense.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UnbiasedContender\"> /u/UnbiasedContender </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1x3vp89/team_blind_knows_when_you_leave_a_company/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1x3vp89/team_blind_knows_when_you_leave_a_company/\">[comments]</a></span>"
+                }
+            ],
+            "summary": "<!-- SC_OFF --><div class=\"md\"><p>As many of you may already know, Team Blind is a anonymous platform for discussing topics with your co-workers. It's very popular with Tech industry employees.</p> <p>You have to verify your work email to get access to the company-only area on this website. Over the course of using this website for 10 years, I have never had to reverify my work email address once while at a company. Not once I have ever been asked to reverify even after 6+ years of continuous employment at one company.</p> <p>Yet, on 2 separate occasions where I have quit a job, Team Blind has popped up with an &quot;Automatic Email Re-verification&quot; on the same week I left that company. This is with me making no announcements on LinkedIn or on Team Blind itself.</p> <p>There is no way this is a coincidence. Team Blind actively works with various tech companies and they share data together. The only way Blind could have known I left is if my old company notified them. Team Blind have <a href=\"https://business.teamblind.com\">https://business.teamblind.com</a> which is something companies can pay for to get &quot;anonymised data&quot; about their employees on blind.</p> <p>The takeaway here is: it is not an anonymous platform and you should assume your activity and everything you discuss on there is shared with your employer.</p> <p>Maybe it was once a truly anonymous but it is now fully compromised as they try to monetise their platform.</p> <p>Somebody should create a truly anonymised clone of the website, and promote its usage. Because Team Blind isn't so blind anymore at your expense.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UnbiasedContender\"> /u/UnbiasedContender </a> <br /> <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1x3vp89/team_blind_knows_when_you_leave_a_company/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/cscareerquestions/comments/1x3vp89/team_blind_knows_when_you_leave_a_company/\">[comments]</a></span>",
+            "id": "t3_1x3vp89",
+            "guidislink": true,
+            "link": "https://www.reddit.com/r/cscareerquestions/comments/1x3vp89/team_blind_knows_when_you_leave_a_company/",
+            "links": [
+                {
+                    "href": "https://www.reddit.com/r/cscareerquestions/comments/1x3vp89/team_blind_knows_when_you_leave_a_company/",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "updated": "2026-10-12T07:42:27+00:00",
+            "updated_parsed": [
+                2026,
+                10,
+                12,
+                7,
+                42,
+                27,
+                0,
+                285,
+                0
+            ],
+            "published": "2026-10-12T07:42:27+00:00",
+            "published_parsed": [
+                2026,
+                10,
+                12,
+                7,
+                42,
+                27,
+                0,
+                285,
+                0
+            ],
+            "title": "Team Blind knows when you leave a company",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "",
+                "value": "Team Blind knows when you leave a company"
+            }
+        }
+    ],
+    "feed": {
+        "tags": [
+            {
+                "term": "cscareerquestions",
+                "scheme": null,
+                "label": "r/cscareerquestions"
+            }
+        ],
+        "updated": "2026-10-16T10:10:02+00:00",
+        "updated_parsed": [
+            2026,
+            10,
+            16,
+            10,
+            10,
+            2,
+            4,
+            289,
+            0
+        ],
+        "icon": "https://www.redditstatic.com/icon.png/",
+        "id": "/r/cscareerquestions/search.rss?q=job&restrict_sr=on&sort=top&t=month&limit=5",
+        "guidislink": true,
+        "link": "https://www.reddit.com/r/cscareerquestions/search?q=job&restrict_sr=on&sort=top&t=month&limit=5",
+        "links": [
+            {
+                "rel": "self",
+                "href": "https://www.reddit.com/r/cscareerquestions/search.rss?q=job&restrict_sr=on&sort=top&t=month&limit=5",
+                "type": "application/atom+xml"
+            },
+            {
+                "rel": "alternate",
+                "href": "https://www.reddit.com/r/cscareerquestions/search?q=job&restrict_sr=on&sort=top&t=month&limit=5",
+                "type": "text/html"
+            }
+        ],
+        "logo": "https://e.thumbs.redditmedia.com/6sYN5QpXZFdyDXMp.png",
+        "subtitle": "CSCareerQuestions is a community for those who are in the process of entering or are already part of the computer science field. Our goal is to help navigate and share challenges of the industry and strategies to be successful .",
+        "subtitle_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "CSCareerQuestions is a community for those who are in the process of entering or are already part of the computer science field. Our goal is to help navigate and share challenges of the industry and strategies to be successful ."
+        },
+        "title": "cscareerquestions: search results - job",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "",
+            "value": "cscareerquestions: search results - job"
+        }
+    },
+    "headers": {},
+    "encoding": "utf-8",
+    "version": "atom10",
+    "namespaces": {
+        "": "http://www.w3.org/2005/Atom",
+        "media": "http://search.yahoo.com/mrss/"
+    }
+}
