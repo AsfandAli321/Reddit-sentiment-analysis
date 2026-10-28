@@ -40,8 +40,6 @@ def main():
 def fetch_posts(query, subreddit):
     posts = []
 
-    # query = "job"
-    # subreddit = "r/developersPak"
 
     headers = {
         'User-Agent': 'python:jobmarketanalyzer:v1.0 (by /u/Extra_solar)'
@@ -59,7 +57,6 @@ def fetch_posts(query, subreddit):
             clean_text = soup.get_text(separator=" ", strip=True)
 
             # 2. Use regex to strip the Reddit metadata at the end
-            # \S+ matches any username (one or more non-whitespace characters)
             clean_text = re.sub(r"submitted by /u/\S+ \[link\] \[comments\]", "", clean_text).strip()
             
             post_db = {
