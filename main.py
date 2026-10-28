@@ -16,7 +16,7 @@ def main():
     subreddits = ['r/cscareerquestions', 'r/developersPak/']
     posts = load_posts(subreddits)
     if posts.empty:
-        print("No posts found. Run your collector first.")
+        print("No posts found. Run fetch_posts.py first.")
         return
     print(f"Fetched {len(posts)} posts.")
 

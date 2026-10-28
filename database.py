@@ -27,16 +27,16 @@ def initialize_database():
             )
         """)
 
-        # conn.execute("""
-        #     CREATE TABLE IF NOT EXISTS sentiment_results (
-        #         post_id TEXT PRIMARY KEY,
-        #         keyword TEXT NOT NULL,
-        #         sentiment_label TEXT NOT NULL,
-        #         confidence REAL NOT NULL,
-        #         model_name TEXT NOT NULL,
-        #         analyzed_at TEXT NOT NULL
-        #     )
-        # """)
+        conn.execute("""
+            CREATE TABLE IF NOT EXISTS sentiment_results (
+                post_id TEXT PRIMARY KEY,
+                keyword TEXT NOT NULL,
+                sentiment_label TEXT NOT NULL,
+                confidence REAL NOT NULL,
+                model_name TEXT NOT NULL,
+                analyzed_at TEXT NOT NULL
+            )
+        """)
 
 
 def save_posts(posts):
@@ -58,7 +58,21 @@ def save_posts(posts):
 
 
 def save_sentiment_results(posts):
-    ...
+    if not posts:
+        return
+    with closing(get_connection()) as conn, conn:
+        conn.executemany("""
+            INSERT INTO posts (
+                post_id, keyword, subreddit, title, body,
+                url, published_at, fetched_at
+            )
+            VALUES (
+                :post_id, :keyword, :subreddit, :title, :body,
+                :url, :published_at, :fetched_at
+            )
+            ON CONFLICT(post_id, keyword) DO UPDATE SET
+                fetched_at = excluded.fetched_at
+        """, posts)
 
 def load_posts(subreddits):
     if not subreddits:
