@@ -30,6 +30,23 @@ def main():
             break
         print("enter a valid num")
     print(f'search set for {user_query_choice} in {user_subreddit_choice}')
+
+
+    country_list = ['pakistan', 'europe/', 'india']
+    print("Select a country:")
+    for i,country in enumerate(country_list):
+        print (i,country)
+    while True:
+        user_subreddit_choice = input('>')
+        if user_subreddit_choice.isdigit() and int(user_subreddit_choice) < len(subreddit_list):
+            user_subreddit_choice = subreddit_list[int(user_subreddit_choice)]
+            print("subreddit selected")
+            break
+        print("enter a valid num")
+    print(f'search set for {user_query_choice} in {user_subreddit_choice}')
+
+
+
     posts = fetch_posts(user_query_choice, user_subreddit_choice)
     # print(posts[0])
     save_posts(posts)
