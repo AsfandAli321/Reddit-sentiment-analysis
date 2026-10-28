@@ -37,13 +37,13 @@ def main():
     for i,country in enumerate(country_list):
         print (i,country)
     while True:
-        user_subreddit_choice = input('>')
-        if user_subreddit_choice.isdigit() and int(user_subreddit_choice) < len(subreddit_list):
-            user_subreddit_choice = subreddit_list[int(user_subreddit_choice)]
-            print("subreddit selected")
+        user_country_choice = input('>')
+        if user_country_choice.isdigit() and int(user_country_choice) < len(subreddit_list):
+            user_country_choice = subreddit_list[int(user_country_choice)]
+            print("country selected")
             break
         print("enter a valid num")
-    print(f'search set for {user_query_choice} in {user_subreddit_choice}')
+    print(f'search set for {user_query_choice} in {user_country_choice}')
 
 
 
